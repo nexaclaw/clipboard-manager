@@ -1,0 +1,17 @@
+{
+  "name": "clipboard-manager",
+  "version": "1.0.0",
+  "description": "历史记录、快捷键、多设备同步 | Nexa Claw - https://nexaclaw.cn/",
+  "author": {
+    "name": "Nexa Claw",
+    "email": "nexaclaw@outlook.com",
+    "url": "https://nexaclaw.cn/"
+  },
+  "homepage": "https://nexaclaw.cn/",
+  "license": "MIT",
+  "keywords": ["clipboard-manager", "Nexa Claw", "AI", "automation"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nexaclaw/clipboard-manager"
+  }
+}
